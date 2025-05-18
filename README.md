@@ -1,4 +1,4 @@
-## Hi there 👋
+> Programming is the art of navigating the unfamiliar, not just operating within the known.
 
 <!--
 **Kyorasawa/Kyorasawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
